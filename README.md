@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buzzraa" alt="buzzraa" /></a> </p>
 
-- 🌱 I’m currently learning **Mern stack**
+- 🌱 I’m currently learning **M.E.R.N. Stack**
 
 - 📫 How to reach me **royaleplay645@gmail.com**
 
